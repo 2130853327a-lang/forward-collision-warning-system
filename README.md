@@ -7,3 +7,5 @@ Pure TTC Model from：GB/T 33577－2017 《智能运输系统车辆前向碰撞�
 ![仅TTC模型](ttc.png)
 Fusion of TTC and Minimum Braking Safety Distance
 ![融合模型](mbd&ttc.png)
+Typical Sequence Analysis
+![典型序列分析](TSA.png)
